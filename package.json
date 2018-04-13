@@ -1,0 +1,36 @@
+{
+  "name": "hygulptest",
+  "version": "1.0.0",
+  "description": "Learning Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.5.0",
+    "browser": "^0.2.6",
+    "browser-sync": "^2.11.1",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-cache": "^0.4.6",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-livereload": "^3.8.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5",
+    "sync": "^0.2.5"
+  },
+  "dependencies": {
+    "gsap": "^1.20.2"
+  }
+}
